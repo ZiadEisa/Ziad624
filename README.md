@@ -1,5 +1,5 @@
-## -<i Hello 👋 , 🙂 my name is: Zeyad Mohamad Abd-Elhakam >
-## - <i I'm a computer science student at Cairo University >
+## - Hello 👋 , 🙂 my name is: Zeyad Mohamad Abd-Elhakam 
+ <em I'm a computer science student at Cairo University >
 <hr>
 ## - 🔭🌱 <b > ✨I’m a Problem Solver✨ </b>
 ## - My Codeforces Profile <a href="https://codeforces.com/profile/ziadesaa102" title="اضغط علي الرابط" ><u>click here </u></a>
