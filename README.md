@@ -1,11 +1,11 @@
 ## - Hello 👋 , 🙂 my name is: Zeyad Mohamad Abd-Elhakam 
  <em I'm a computer science student at Cairo University >
 <hr>
-## - 🔭🌱 <b > ✨I’m a Problem Solver✨ </b>
-## - My Codeforces Profile <a href="https://codeforces.com/profile/ziadesaa102" title="اضغط علي الرابط" ><u>click here </u></a>
+## - 🔭🌱 <b > ✨I’m a Problem Solver✨ </b> <br>
+## - My Codeforces Profile <a href="https://codeforces.com/profile/ziadesaa102" title="اضغط علي الرابط" ><u> Codeforces </u></a>
 <hr>
-### Here are some lanuages i know
-## Strong in C++/C 
+### Here are some lanuages i know <br>
+## Strong in C++/C <br>
 ##  PHP , Python
 <hr>
 ## - 📫 How to reach me:
