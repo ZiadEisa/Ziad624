@@ -5,7 +5,7 @@
  -  [Codeforces] <a href="https://codeforces.com/profile/ziadesaa102" >Profile</a> 
 <hr>
  Here are some lanuages i know <br>
-  - Strong in C++/C <br>
+  - Master C++/C <br>
   - PHP , Python 
 <hr>
  - 📫 How to reach me: <br>
